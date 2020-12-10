@@ -3,12 +3,23 @@ entries:
   helm-chart-test:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-12-09T20:47:12.4851935-06:00"
+    created: "2020-12-09T21:20:41.3037948-06:00"
     description: A Helm chart for Kubernetes
-    digest: a62ca61630bd93a9a9f678bfb14ce0eb3de06bdd47a30141c1c9f804ac6d20a7
+    digest: d68cf04993f955b45ed8e47d2c9aeeee2d1e00c3af7fc82f4be7900969379838
     name: helm-chart-test
     type: application
     urls:
     - https://dbrande99.github.io/helm-chart/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-09T21:08:04.5540445-06:00"
+  kube-dashboard:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-09T21:20:41.3057917-06:00"
+    description: A Helm chart for Kubernetes
+    digest: 3069aeb67bb07a018cac4a321c03b6f8458456fa1e28f5d785d226d5915fa002
+    name: kube-dashboard
+    type: application
+    urls:
+    - https://dbrande99.github.io/helm-chart/kube-dashboard-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-09T21:20:41.3027978-06:00"
